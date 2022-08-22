@@ -1,6 +1,6 @@
 ### Hi there, I'm Mariana 👋
 
-- 🌱 I’m currently learning Java, PHP, JavaScript, HTML5 and CSS
+- 🌱 I’m currently learning Java, PHP, JavaScript, HTML5, CSS, React and React Native
 - ⚡ Fun fact: I'm obsessed with animals 🐶
 
 <div align="center">
